@@ -1,10 +1,13 @@
+معلومات المشروع
+
 # SCP-001-project
-Secure &amp; Contion &amp; Protect project
+Secure & Contion & Protect
 
-The project was programed by me 
+The project was programed by batch language
+The project is using in all windows versions
 the project is using to attack TV chanels by Denial of service attacks 
-No ask me if you used the project of any un healthy operations
 the project is free 
-the project is next to egy-173 project i programed its
+the project is next to egy-173 project
 
-if you want to get the project, message me in my telegram chat @royal_egy
+#Red_Hat_Team
+#Anonymus
